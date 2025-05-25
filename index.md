@@ -3,7 +3,7 @@
 
 # Comparative Plant Development Lab
 
-The Yu lab is a group of researchers investigating the comparative development of plant morphological traits at both the cellular and genetic levels. We aim to uncover how these variations influence the biological functions of plant structures, with a particular focus on traits of agronomic importance. Our group is based at the James Hutton Institute and is associated with the International Barley Hub.  
+The Yu lab is a group of researchers investigating the comparative development of plant morphological traits at both the cellular and genetic levels. We aim to uncover how these variations influence the biological functions of plant structures, with a particular focus on traits of agronomic importance. Our group is part of the International Barley Hub based at the James Hutton Institute.  
 
 
 {% include section.html %}
@@ -12,34 +12,11 @@ The Yu lab is a group of researchers investigating the comparative development o
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research leverages the wild relatives of cereal crops to study the comparative development of agronomically relevant traits, using a combination of cellular and molecular biology, genetics, gene editing, and phylogenetic approaches.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -51,8 +28,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Research"
   flip=true
   style="bare"
   text=text
@@ -60,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are committed to fostering a respectful and motivating environment where we celebrate each other's successes.
 
 {%
   include button.html
@@ -77,6 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
