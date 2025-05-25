@@ -1,9 +1,10 @@
 ---
 ---
 
-# Yunqing-Yu's Website
+# Comparative Plant Development Lab
 
-An engaging 1-3 sentence description of your lab.
+The Yu lab is a group of researchers investigating the comparative development of plant morphological traits at both the cellular and genetic levels. We aim to uncover how these variations influence the biological functions of plant structures, with a particular focus on traits of agronomic importance. Our group is based at the James Hutton Institute and is associated with the International Barley Hub.  
+
 
 {% include section.html %}
 
