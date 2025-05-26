@@ -7,6 +7,6 @@
 
   Welcome! 
   
-  Visit **[Yunqing's website](https://yunqing-yu.github.io/yulab)** 
+  Visit **[Yunqing's lab website](https://yunqing-yu.github.io/yulab)** 
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
