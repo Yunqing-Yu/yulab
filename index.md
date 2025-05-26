@@ -3,7 +3,7 @@
 
 # Comparative Plant Development Lab
 
-The Yu lab is a group of researchers investigating the comparative development of plant morphological traits at both the cellular and genetic levels. We aim to uncover how these variations influence the biological functions of plant structures, with a particular focus on traits of agronomic importance. Our group is part of the International Barley Hub based at the James Hutton Institute.  
+The Yu lab is a group of researchers investigating the comparative development of plant morphological traits at both the cellular and genetic levels. We aim to uncover how these variations influence the biological functions of plant structures, with a particular focus on traits of agronomic importance. Our group is part of the [International Barley Hub](https://barleyhub.org/) based at the [James Hutton Institute](https://www.hutton.ac.uk).  
 
 
 {% include section.html %}
