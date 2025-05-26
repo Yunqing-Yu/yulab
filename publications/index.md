@@ -13,8 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Divergent gene expression networks underlie morphological diversity of abscission
-    zones in grasses" style="rich" %}
+{% include citation.html lookup="doi:10.1111/nph.16087" style="rich" %}
 
 {% include section.html %}
 
