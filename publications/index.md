@@ -13,7 +13,8 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Divergent gene expression networks underlie morphological diversity of abscission
+    zones in grasses" style="rich" %}
 
 {% include section.html %}
 
