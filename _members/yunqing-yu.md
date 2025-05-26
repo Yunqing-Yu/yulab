@@ -3,7 +3,8 @@ name: Yunqing Yu
 nav:
   order: 1
 image: images/photo.jpg
-role: principal-investigator
+description: PI, UKRI Future Leaders Fellow
+role: pi
 aliases:
   - Y. Yu
   - Y Yu
