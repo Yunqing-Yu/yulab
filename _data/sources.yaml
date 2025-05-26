@@ -1,23 +1,21 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1111/nph.16087
+  title: Divergent gene expression networks underlie morphological diversity of abscission
+    zones in grasses
+  authors:
+  - Yunqing Yu
+  - Hao Hu
+  - Andrew N. Doust
+  - Elizabeth A. Kellogg
+  publisher: New Phytologist
+  date: '2019-08-28'
+  link: https://doi.org/gr8d2g
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/3f442514-d8ce-4ced-8739-31aef0dd95eb/nph16087-fig-0001-m.jpg
+  
+- id: doi:10.1111/nph.19157
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/0c63ea27-0084-4a5f-9f18-87c3b3d8dc65/nph18248-toc-0001-m.jpg
+  
+- id: doi:10.1093/plphys/kiad079
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/Issue/192/1/8/plphys_192_1coverfig.jpeg?Expires=1751313733&Signature=yMJ5KHDuhxuCmtSCii0zEg2gbCSoi5a1RRyI9t~4Z-HTYrn8qEgI3tzdiqxLOO-F0BivnK2HpliLLIKqje0ndmCuPWTVA3NKeYiEq4u0Zg32w6a9GCunm~qSOZtt7B2XxQzqQ5zNj997pzcLuTruIeMR30yWG60roMz2M5CWXuFt9eLQkF3XG4S1kJriDhbnv5YMjEszpw3shuOULkh2U4JTL3tJVJFOLjFgQZg-VuEH4u3DCRzaE-PFd8G3L~UBIWRQMSDZ80y~9ort~rTPjOImb7TLSKQzBkOn8xlifSDKqht8UTrCYk7iKMAPU5BLUxnqcRunpGmj9Fcg41PF7g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1002/ajb2.1454
+  image: https://bsapubs.onlinelibrary.wiley.com/cms/asset/34b41b02-7e2f-4a35-bbf1-3c788a8eba8b/ajb21454-fig-0001-m.png
