@@ -2,7 +2,6 @@
 name: Yunqing Yu
 image: images/photo.jpg
 role: principal-investigator
-affiliation: James Hutton Institute
 aliases:
   - Y. Yu
   - Y Yu
