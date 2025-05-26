@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
+name: Yunqing Yu
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: James Hutton Institute
 aliases:
-  - J. Smith
-  - J Smith
+  - Y. Yu
+  - Y Yu
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  google-scholar: FONPVBsAAAAJ
+  orcid: 0000-0003-2447-6161
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Yunqing received her bachelor's degree at Nankai University, China. 
