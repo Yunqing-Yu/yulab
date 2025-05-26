@@ -1,5 +1,7 @@
 ---
 name: Yunqing Yu
+nav:
+  order: 1
 image: images/photo.jpg
 role: principal-investigator
 aliases:
