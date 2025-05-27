@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
-...
+List of Yunqing's publications:
 
 {% include section.html %}
 
