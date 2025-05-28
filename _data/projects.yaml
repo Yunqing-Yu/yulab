@@ -9,12 +9,12 @@
   subtitle: genetic basis of barley threshability
   group: featured
   image: images/photo.jpg
-  link: news
+  link: research/threshability
   description: Easy threshability ...
 
 - title: Transformation
   subtitle: tool development
   image: images/photo.jpg
-  link: https://github.com/
+  link: research/transformation
   description: We are developing transformation systems for barley and its wild relatives 
   
