@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
-For a full list of Yunqing's publications, please visit "Google Scholar [https://scholar.google.co.in/citations?user=FONPVBsAAAAJ&hl=en]".
+For a full list of Yunqing's publications, please visit [Google Scholar](https://scholar.google.co.in/citations?user=FONPVBsAAAAJ&hl=en).
 
 {% include section.html %}
 
