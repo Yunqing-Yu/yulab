@@ -27,7 +27,7 @@ Our research leverages the wild relatives of cereal crops to study the comparati
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/nph16087-fig-0001-m.jpg"
   link="research"
   title="Research"
   flip=true
