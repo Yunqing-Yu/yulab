@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are located in the Crop Innovation Center at the James Hutton Institute in Invergowrie, Scotland. 
+We are located in the Crop Innovation Center at the James Hutton Institute in Invergowrie, Scotland. Please reach out to us for opportunities and collaborations. 
 
 {%
   include button.html
