@@ -38,7 +38,7 @@ We are located in the Crop Innovation Center at the James Hutton Institute in In
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/JHI.jpg"
   caption="James Hutton Institute"
 %}
 
