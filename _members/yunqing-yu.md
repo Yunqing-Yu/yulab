@@ -1,6 +1,6 @@
 ---
 name: Yunqing Yu
-image: images/photo.jpg
+image: images/YunqingYu.jpg
 description: PI, UKRI Future Leaders Fellow
 role: pi
 aliases:
