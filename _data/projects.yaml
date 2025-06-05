@@ -1,20 +1,20 @@
 - title: Shattering
-  subtitle: comparative development of grass shattering
+  subtitle: UKRI
   group: featured
   image: images/DZ_AJB.jpg
   link: https://yunqing-yu.github.io/yulab/research/shattering
-  description: Shattering is undesirable in agriculture, 
+  description: Comparative development of grass shattering
 
 - title: Threshability
-  subtitle: genetic basis of barley threshability
+  subtitle: UKRI
   group: featured
   image: images/DZ_COPB.jpg
   link: research/threshability
-  description: Easy threshability ...
+  description: Genetic basis of barley threshability
 
 - title: Transformation
-  subtitle: tool development
+  subtitle: UKRI
   image: images/photo.jpg
   link: research/transformation
-  description: We are developing transformation systems for barley and its wild relatives 
+  description: Tool development
   
