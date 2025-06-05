@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/plcell/koae308
+  title: Comparative RNA profiling identifies stage-specific phasiRNAs and coexpressed
+    <i>Argonaute</i> genes in Bambusoideae and Pooideae species
+  authors:
+  - "S\xE9bastien B\xE9langer"
+  - Junpeng Zhan
+  - Yunqing Yu
+  - Blake C Meyers
+  publisher: The Plant Cell
+  date: '2024-11-18'
+  link: https://doi.org/g9nj48
+  orcid: 0000-0003-2447-6161
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pbi.2024.102564
+  title: Multifaceted mechanisms controlling grain disarticulation in the Poaceae
+  authors:
+  - Yunqing Yu
+  - Elizabeth A. Kellogg
+  publisher: Current Opinion in Plant Biology
+  date: '2024-10-01'
+  link: https://doi.org/g9nj49
+  orcid: 0000-0003-2447-6161
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/nph.19157
   title: The YABBY gene <i>SHATTERING1</i> controls activation rather than patterning
     of the abscission zone in <i>Setaria viridis</i>
@@ -54,7 +79,7 @@
   orcid: 0000-0003-2447-6161
   plugin: sources.py
   file: sources.yaml
-  image: https://academic.oup.com/view-large/figure/357090533/kiac115f1.tif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/189/2/10.1093_plphys_kiac115/1/kiac115f1.jpeg?Expires=1752176016&Signature=d5yR6zUCaezI8anE8vU~erHgoNQK8ogEwmUKPRF-RDsc3uXaCjFxUL3ARxXDrvxb3bJM9ugrUcTZcVjkUdPmUTsYogkrHgHL-Pjw3QxXteGY897EgeOTxKDgLUayTFn49OXo8WhcFuO4A~jynywlCWkjbaqvb1V1YEp-lES~jBfV6gE-vTOmykYsT8nlOEGvqQsJFfLcoBfYIqkluZCdruNqGdOBb0SZsgB1C8Mw58Ryg8Z469Cv1VTTng0ltsPpHdORdV~zrNv5pS0oUobSilzsbZU0tamXxJpkowSRd2UwmmOGx2d~6so2buaXQrF-BzdvkZiLNskQIhazalodDQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.3389/fpls.2021.710383
   title: The Streptochaeta Genome and the Evolution of the Grasses
   authors:
@@ -83,7 +108,7 @@
   orcid: 0000-0003-2447-6161
   plugin: sources.py
   file: sources.yaml
-  image: https://academic.oup.com/view-large/figure/226619799/plphys_v184_3_1214_f1.tif
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/184/3/10.1104_pp.20.01315/1/plphys_v184_3_1214_f1.jpeg?Expires=1752176052&Signature=pCjgq6cjyNCXl9yKRFOegc0EMhZMS6NJ9XUEIRiDjW0RJRAKbEuVfDD7Hp5PSXGuuEJeor6bSr9NDSs6KhjkZ67dWJx-wGSjxuCujVR2WfgqATvI1IjI2Xnn2sr3GI0K5vBVycaBG6MhF6ubjaglSe67fM8wPI-pX-foGBzidt87LVuoKn7oilA9tM5QDKA8s7UsbqCIDepV94wHw9FxzN5LZ9NjYsQgL8DE-g-7g7s9lcfPWaK77HjhijRyVD0LN1GHxpnE2YYplykYV3yWD3SOZgdnooWftKL3FClAdwkO9mnQUvvXLP4Y-hwj1KBnVI79dnIjlCCkezJsodde0A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1038/s41587-020-0681-2
   title: A genome resource for green millet Setaria viridis enables discovery of agronomically
     valuable loci
@@ -144,8 +169,9 @@
   date: '2020-08-01'
   link: https://doi.org/g9mccr
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/183/4/10.1104_pp.20.00797/3/plphys_v183_4_1422_f1.jpeg?Expires=1752176204&Signature=p2wppm4-vA42UEDiVs1c6yi1RadiuTY7GqsMPT2JrdtkyPEAiJ0c8AI4vDfOZj2Ipo3KJHp-CGKRF1pZUoTTdbFn2h7zhChNnP5PFeVUG8MtwBhqCiNyWD~bjw7DHo3Q4SiTwTYBGK3FMwKcKT83MJjPPH98ki19qbxdG5HV4QPA8DDljRZLor-uVeOJofaHFYa9pHH6r3lUw8Giko5QZYMsVVVs~0t7uUeLOVzUcYOUm5RREsRo0GczUxUNDIzuiEZOP~TeFm6xIysm41rNxR6hZ5fRPJuX5Fg4jpa8RkdFndArLtm4pIKznnRM6sdCXMgubRetrutpsLXRI8vRGQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1104/pp.20.00490
   title: 'Remorins: Essential Regulators in Plant-Microbe Interaction and Cell Death
     Induction'
@@ -155,8 +181,9 @@
   date: '2020-06-01'
   link: https://doi.org/g9mccs
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/183/2/10.1104_pp.20.00490/1/plphys_v183_2_435_f1.jpeg?Expires=1752176352&Signature=RlZqYkuT3mBxzqDw-hWgI8Oz6wQgpBQVdhOQr9ZLKLaczBxxFV6rgD6hADkXnvQUsLGDO5xxtDyNlAL3o1MQqd5dsOglMzDllGUZTHwf-OWIuof4QWaetogDswyIYXDRcko7Ud2Aej~CqER6tPP08aAMeR747tUNZGl6gErI~r0GxOZF2tKDZMKvY5JYJkHphu6MXYrWABd4THAHYtmFYqy1wAbBveUBpb3bb~212nYVPSOx~XeBFJX7Sxfej~vD50GsILTW0xqI5JVZT3dwekzJV~oTCn8JoNxAgLRnqYrMBy-HQ9TneM2qIE9KWIjSU4o0ylRQe~qcMgrcjNgeKQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1104/pp.20.00152
   title: <i>LACCASE2</i> Negatively Regulates Lignin Deposition of Arabidopsis Roots
   authors:
@@ -165,8 +192,9 @@
   date: '2020-03-01'
   link: https://doi.org/g9mcct
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/182/3/10.1104_pp.20.00152/1/plphys_v182_3_1190_f1.jpeg?Expires=1752176513&Signature=WIMIk9SrELNJpeUtZqnvuN1vAgbduWGDUMGCrmvlLAoMyX3U7S28SQSS1lLX6i9PvJYzEEFK4A3Ed7AnpFiVWCDm-oaXZK4UC6CakTCU0hG2bIt9FBgLhpQquMpFWslmLf0XFKkKMdHG7pHzhQG~HzYO~-BSiMX9AnkNSPwLnDoJ4csyQFNP-9-l6f7YxU5w4QMFZCxeo~M5HcaOG6Rul7sn-zBWjmshetprRQGFYeCbhe3H7tkNV8g80I4F2wMS52Gzn-qrngpTUHJfIIrHFiuR7VWbRFurO7vZHfwsR1oLvvP2sLLerhZ5xkYVRIlSVlw0MNTKRtKJOlhOTJ86Tg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1002/ajb2.1454
   title: The anatomy of abscission zones is diverse among grass species
   authors:
@@ -194,8 +222,9 @@
   date: '2020-01-14'
   link: https://doi.org/g9mccv
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://rnajournal.cshlp.org/content/26/4/492/F1.large.jpg
 - id: doi:10.1104/pp.19.01018
   title: OsKNAT7 Bridges Secondary Cell Wall Formation and Cell Growth Regulation
   authors:
@@ -204,8 +233,9 @@
   date: '2019-10-01'
   link: https://doi.org/g9mccw
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/181/2/10.1104_pp.19.01018/9/plphys_v181_2_385_f1.jpeg?Expires=1752176828&Signature=kzrDE-64DcfGsxjAiXJgqy9qAnffhKIvJ8m8826mlt9tKV1dhUmvBDFMSIsVrUxfyYtLaFYowBIQW8tHrj6WtjjpH-~BE6GZ2DpjBA4QnFMD44rc-2X3mloHEZTxeL1k1srO7CF8OoSBSEFDdU5KA~-ruDFjmKY-qOSQyWzq29qcOZpH2LlHTtLjK7Vq3aCzpF7vORau4osk0OBKpwc6H1utR1fCNesGSq-oluzdFhZvp9M5j~YiSdVHxFnctA6ibI-A3FOo58xue~uvUNhABUnCkkBwpCtBEZlgC-WZFZis3p-CRLrPahjwaPWXVw04KgjybNYFdDnyKf9HLoGsRQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1104/pp.19.00872
   title: <i>Liguleless1</i>, a Conserved Gene Regulating Leaf Angle and a Target for
     Yield Improvement in Wheat
@@ -215,8 +245,9 @@
   date: '2019-08-29'
   link: https://doi.org/g9mccx
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=713424&s=91&r=1&c=3
 - id: doi:10.1111/nph.16087
   title: Divergent gene expression networks underlie morphological diversity of abscission
     zones in grasses
@@ -240,8 +271,9 @@
   date: '2019-06-01'
   link: https://doi.org/gqdfwp
   orcid: 0000-0003-2447-6161
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: null
 - id: doi:10.1104/pp.19.00333
   title: Diverse Strategies Coping with Winter in Barley and its Relatives
   authors:
